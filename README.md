@@ -1,4 +1,5 @@
 # kakuyomuDownloader
+As been implemented into https://github.com/safirex/WNovelArchiver and won't be updated
 
 A simple python app permitting to batch download novel chapters from kakuyomu.jp
 
